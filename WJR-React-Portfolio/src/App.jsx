@@ -14,7 +14,7 @@ function App() {
         <main>
           {page === 'aboutme' && <AboutMe/>}
           {page === 'work' && <Work/>}
-          {page === 'contact' && <Contact/>}
+          {page === 'contactme' && <Contact/>}
         </main>      
     </>
   )
